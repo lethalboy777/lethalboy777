@@ -1,7 +1,7 @@
 OWASP | Web | Network | Mobile | API | VAPT | DAST/SAST | AWS | ✓
 Cloud Security
 
-{~CEH~}- - - - - - Application Security
+{CEH}- - - - - - Application Security
 
 -DAST- Dynamic Application Security Testing
 -SAST- Static Application Security Testing
