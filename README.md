@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @lethalboy777
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+OWASP | Web | Network | Mobile | API | VAPT | DAST/SAST | AWS | ✓
+Cloud Security
 
-<!---
-lethalboy777/lethalboy777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{~CEH~}- - - - - - Application Security
+
+-DAST- Dynamic Application Security Testing
+-SAST- Static Application Security Testing
+-IAST- Interactive Application Security Testing.
+-RASP- Run Time Application Self Protection.
+-SCA- Software Composition Analysis.
+-WAF- Web Application Firewall.
+-Security Operation Center( SOC )
+-Security Information Event Management ( SIEM )
+-Splunk.
+-SaaS- Software as a Service
+-IaaS
+-PaaS
+-SME- Small Medium Enterprise
+-IoT- internet of Things
+-IAM- identity and Access Management
+-CI/CD Pipeline ( Jenkins)
+-MiTRE ATT@CK
+
+✓ Gen Ai - Generative Artificial Intelligence
+
+✓Portswigger
+✓Bugcrowd
+✓Hackerone
+✓TryHackme
+✓YesWeHack
+✓Intigrity
+✓Hack The BoX.
+
+✓MMA~}BlacK BeLT
